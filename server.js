@@ -11,6 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
+//acceptance criteria requirements
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '/public/index.html'));
   });
