@@ -1,8 +1,8 @@
-
-let db = require("../db/db.json");
-let fs = require("fs");
-let express = require("express");
-let app = express();
+//require
+const db = require("../db/db.json");
+const fs = require("fs");
+const express = require("express");
+const app = express();
 
     app.get("/notes", function(req, res) {
         db = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
