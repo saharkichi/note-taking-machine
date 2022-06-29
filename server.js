@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static("public"));
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
-//use insomnia
+//use insomnia to test 
 app.listen(PORT, function() {
     console.log("App listening on http://localhost:" + PORT);
 });
