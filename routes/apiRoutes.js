@@ -1,5 +1,5 @@
 //require
-const db = require("../db/db.json");
+let db = require("../db/db.json");
 const fs = require("fs");
 // const express = require("express");
 const app = require("express").Router();
