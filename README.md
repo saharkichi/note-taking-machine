@@ -13,4 +13,6 @@ npm install
 
 # Screenshots
 
-![Screen Shot 2022-06-28 at 8 30 29 PM (2)](https://user-images.githubusercontent.com/105219789/176326383-d9682148-c93f-4bda-8ed9-1bfbb0225a64.png)
+![Screen Shot 2022-07-05 at 3 52 55 PM (2)](https://user-images.githubusercontent.com/105219789/177406057-f0fe364c-c03c-433a-8e21-fe6c158689f9.png)
+
+![Screen Shot 2022-07-05 at 3 57 08 PM (2)](https://user-images.githubusercontent.com/105219789/177406225-4f489862-7122-48e8-af53-12fb55b796ad.png)
